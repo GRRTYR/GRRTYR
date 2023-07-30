@@ -21,7 +21,7 @@ body {
 }
 
 #rin-footer {
-    bottom: 0;
+    /*bottom: 0;*/
     margin: auto;
     width: 100vw;
     position: absolute;
